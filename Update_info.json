@@ -1,5 +1,5 @@
 {
-  "current_version": "1.5",
+  "current_version": "1.6",
   "update_url": "https://raw.githubusercontent.com/makson4ck/Admin-Helper/main/AdminHelper.luac",
-  "update_info": "Больше не будет крашить скрипт при входе в игру\nФикс скачивания Form.json, добавлен PlayerList\nРаян Найтмер ЛОХ"
+  "update_info": "Test"
 }
